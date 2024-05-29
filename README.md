@@ -1,2 +1,2 @@
 # odin-recipes
-recipes page
+recipes page: which has my favorite recipes
